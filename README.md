@@ -13,8 +13,6 @@ I love solving real-world problems and turning creative ideas into functional ap
 - 💻 Experienced with **MERN Stack, Python ML, Streamlit, Firebase, and Spring Boot**  
 - 🎯 Interested in **Gen AI, Web Development, Data Analytics, and AI Chatbots**
 
----
-
 ## 💻 My Skills (Circular Style)
 
 <p align="center">
@@ -51,7 +49,6 @@ I love solving real-world problems and turning creative ideas into functional ap
 
 </p>
 
----
 
 ## 🏆 Projects Highlights
 
